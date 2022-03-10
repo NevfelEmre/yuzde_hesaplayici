@@ -1,9 +1,11 @@
 # yuzde_hesaplayici
 
 Yüzde alma veya yüzde üzerinden indirim hesaplama işini hızlandırmak için tasarlandı.
+//It is designed to speed up the calculation of getting a percentage or discounted on a percentage.
 
 
 Dilediğiniz gibi ücretsiz bir şekilde kullanabilirsiniz.
+//You can use it for free as you wish. 
 
 ## Getting Started
 
