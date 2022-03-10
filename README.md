@@ -1,6 +1,9 @@
 # yuzde_hesaplayici
 
-Selma ÇİÇEK için özel olarak üretildi.
+Yüzde alma veya yüzde üzerinden indirim hesaplama işini hızlandırmak için tasarlandı.
+
+
+Dilediğiniz gibi ücretsiz bir şekilde kullanabilirsiniz.
 
 ## Getting Started
 
