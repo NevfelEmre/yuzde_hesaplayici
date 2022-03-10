@@ -1,6 +1,6 @@
 # yuzde_hesaplayici
 
-Yüzde alma veya yüzde üzerinden indirim hesaplama işini hızlandırmak için tasarlandı.
+Yüzde alma veya yüzde üzerinden indirim hesaplama işini hızlandırmak için tasarlandı.\n
 //It is designed to speed up the calculation of getting a percentage or discounted on a percentage.
 
 
