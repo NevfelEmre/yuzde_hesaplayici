@@ -6,16 +6,5 @@ Yüzde alma veya yüzde üzerinden indirim hesaplama işini hızlandırmak için
 
 _________________________________________________________________________________________________________
 _________________________________________________________________________________________________________
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Yuzde_1](https://user-images.githubusercontent.com/90104635/184142510-3ab1bfc9-98de-4b1c-8d56-890e50017a1e.jpg)
+![Yuzde_2](https://user-images.githubusercontent.com/90104635/184142522-c550c5ed-183a-4bbe-8d87-2a075753b6b6.jpg)
